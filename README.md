@@ -1,1 +1,2 @@
 # uib-modal-component-brisilda
+Using the exercise in Figma according to the link https://www.figma.com/file/OQDSp5qrup4VYnHLwi1Db2/Modal-Component?node-id=0%3A1. Need to create html and styling to make this pixel perfect as the example in Figma.
